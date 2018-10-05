@@ -17,6 +17,8 @@ Kleros core smart contracts.
 
 ## Get Started
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/kleros.svg)](https://www.staging.guardrails.io)
+
 1.  Clone this repo.
 2.  Run `yarn` to install dependencies and then `yarn run build` to compile the contracts.
 
